@@ -53,6 +53,7 @@ calculating averages of Wilson loops axa and ax2a with improved action. Saved in
 
 ## Bibliography
 G.P. Lepage, [LATTICE QCD FOR NOVICES](https://arxiv.org/abs/hep-lat/05060)
+
 A. Cotellucci, [Monte Carlo methods for lattice QCD](https://github.com/AlessandroCotellucci/Lattice-QCD-for-novice/blob/master/Monte_Carlo_methods_for_lattice_QCD.pdf)
 
 
