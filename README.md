@@ -51,7 +51,7 @@ calculating averages of Wilson loops axa and ax2a with improved Wilson action. S
 ## V_QCD computation
 **QCD_potential.ipynb**: 
 
-computing the QCD potential between two static quarks with Metropolis algorithm and Wilson action not improved. Smearing is applied. Lattice smearing is applied by default.
+computing the QCD potential between two static quarks with Metropolis algorithm and Wilson action not improved. Lattice smearing is applied by default.
 
 
 **QCD_potential_improved.ipynb**:
