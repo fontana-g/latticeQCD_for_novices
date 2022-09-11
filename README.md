@@ -39,12 +39,12 @@ computing the first excited state of harmonic oscillator with metropolis algorit
 ## Pure gauge theory simulation <wilson loops>
 **wilson_notimproved.ipynb**:
 
-calculating averages of Wilson loops axa and ax2a with not improved action. Saved in “wilson_ loop _ notimp.txt”
+calculating averages of Wilson loops axa and ax2a with not improved action. Saved in **wilson_ loop _ notimp.txt**
 
 
 **wilson_improved.ipynb**:
 
-calculating averages of Wilson loops axa and ax2a with improved action. Saved in “wilson_ loop _ imp.txt”
+calculating averages of Wilson loops axa and ax2a with improved action. Saved in **wilson_ loop _ imp.txt**
 
 
 
